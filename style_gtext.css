@@ -4,7 +4,7 @@ article {
         rgb(145, 10, 127),
         rgb(248, 72, 72)
     );
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     text-align: center;
 }
